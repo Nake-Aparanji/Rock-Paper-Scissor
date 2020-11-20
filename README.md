@@ -1,4 +1,4 @@
-# Rock-Paper-Scissor
+# Rock-Paper-Scissor (Coursera Assignment)
 In this assignment I created a three page web application to play rock, paper, scissors (http://en.wikipedia.org/wiki/Rock-paper-scissors). I will only allow logged in users to play the game.
 Password - php123
 
